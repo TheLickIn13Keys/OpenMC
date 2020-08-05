@@ -1,5 +1,6 @@
 # OpenMC
 https://discord.gg/maYdAce
+
 OpenMC is a professional Minecraft Server Network full of all the things you love!
 We are more than just your ordinary, run of the mill, Minecraft world, we offer an experience similar to bigger servers like Hypixel and The Hive.
 - Our server is a Waterfall Network (a fork of BungeeCord), this means we have tons of different gamemodes and minigames to play!
