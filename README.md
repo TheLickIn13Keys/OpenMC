@@ -37,5 +37,3 @@ List of Gamemodes/Minigames:
 > Skyblock
 
 > and more on the way
-
-<iframe src="https://discordapp.com/widget?id=723008362769416226&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
